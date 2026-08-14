@@ -5,10 +5,12 @@
 
   <br/><br/>
 
-  <!-- Direct Contact Buttons -->
+  <!-- Direct Contact & Profile Buttons -->
   <a href="https://www.linkedin.com/in/rohan-reddy-thoodi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
   <a href="mailto:rohanth2d@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  &nbsp;
+  <a href="https://github.com/RohanReddyThoodi01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
@@ -64,3 +66,14 @@
 - Set up and tuned monitoring and alerting for live services via **Azure Monitor**, reducing incident response time by 35% through dashboards with on-call alerts and alert thresholds.
 - Managed code changes through **Git & Azure DevOps CI/CD pipelines**, automating builds and deployments to reduce manual steps and configuration drift across environments.
 - Participated in on-call rotations and authored troubleshooting guides (TSGs); supported engineer onboarding and improved team productivity by 15% through repeatable incident workflows.
+
+---
+
+### 🚀 Featured Projects
+
+#### 🤖 [Leveling AI](https://github.com/RohanReddyThoodi01/leveling-ai)
+- Multi-agent AI platform built using Python and LLM architecture.
+- Features agent orchestration, structured evaluation workflows, and comprehensive logging.
+
+#### 📄 [Contract Parser](https://github.com/RohanReddyThoodi01/Contract-parser)
+- Automated NLP & machine learning pipeline designed to extract, categorize, and validate key clauses and structured fields from complex legal contracts.
