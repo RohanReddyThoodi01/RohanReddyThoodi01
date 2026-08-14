@@ -31,10 +31,6 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=RohanReddyThoodi01&style=flat-square&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views"/>
-
 </div>
 
 <br/>
@@ -370,34 +366,6 @@ Production Support
 `Current Topics in Machine Learning`
 &nbsp;
 `Advanced Computer Architecture`
-
----
-
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=RohanReddyThoodi01&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=0ea5e9&text_color=cbd5e1&ring_color=38bdf8"
-  alt="Rohan's GitHub Stats"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanReddyThoodi01&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1"
-  alt="Top Languages"
-/>
-
-<br/><br/>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=RohanReddyThoodi01&bg_color=0d1117&color=cbd5e1&line=38bdf8&point=ffffff&area=true&hide_border=true"
-  width="95%"
-  alt="GitHub Activity Graph"
-/>
-
-</div>
 
 ---
 
