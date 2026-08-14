@@ -1,372 +1,476 @@
 <div align="center">
 
-⚡ ROHAN REDDY THOODI
-Software Engineer · AI · Backend · Cloud
+  <!-- ========================= -->
+  <!--        HERO HEADER        -->
+  <!-- ========================= -->
 
-Building reliable software, intelligent systems, and production-ready engineering solutions.
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,45:111827,100:0ea5e9&text=ROHAN%20REDDY%20THOODI&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20%E2%80%A2%20Backend%20%E2%80%A2%20Cloud&descAlignY=58&descSize=18&animation=fadeIn"
+    width="100%"
+    alt="Rohan Reddy Thoodi Header"
+  />
+
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+Java+%7C+Python;Building+Production-Grade+Backend+Systems;Exploring+LLMs+%26+Multi-Agent+AI+Systems;Cloud+%7C+CI%2FCD+%7C+Observability+%7C+Automation;Turning+Ideas+Into+Reliable+Software"
+      alt="Typing SVG"
+    />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://www.linkedin.com/in/rohan-reddy-thoodi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:rohanth2d@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/RohanReddyThoodi01">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=RohanReddyThoodi01&style=flat-square&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/rohan-reddy-thoodi/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> &nbsp; <a href="mailto:rohanth2d@gmail.com"> <img src="https://img.shields.io/badge/Email-Let's_Talk-9333EA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> &nbsp; <a href="https://github.com/RohanReddyThoodi01"> <img src="https://img.shields.io/badge/GitHub-Projects-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
-
-<br/><br/>
-
-
-
-
-
-
-
-
-</div>
+---
 
 <div align="center">
 
-✦ Professional Snapshot
-Software Engineer building scalable backend systems and intelligent AI applications.
+## ⚡ Professional Snapshot
 
-Production engineering experience backed by strong computer science fundamentals and a growing focus on LLM-powered systems.
+### Software Engineer focused on building scalable systems, intelligent applications, and reliable cloud-backed software.
+
+> *"Building production-grade software today while exploring the intelligent systems of tomorrow."*
 
 </div>
 
-👨‍💻 About Me
+---
 
-<table> <tr> <td width="50%" valign="top">
+## 👨‍💻 About Me
 
-🎓 Background
+<table>
+<tr>
+<td width="50%" valign="top">
 
-M.S. in Computer Science
+### 🎓 Education
+
+**Master of Science in Computer Science**  
 University of Central Florida
 
-GPA — 3.67 / 4.0
+**GPA:** 3.67 / 4.0
 
 <br/>
 
-💼 Experience
+### 💼 Industry Experience
 
-2+ years as a Software Engineer at Accenture
+**2+ years of Software Engineering experience at Accenture**
 
-Worked across:
+Built and supported:
 
-Backend development
-REST APIs
-React applications
-Production support
-Azure DevOps
-CI/CD
-Monitoring & observability
+- Production backend services
+- REST APIs
+- React applications
+- Azure DevOps pipelines
+- Monitoring and telemetry solutions
 
 </td>
 
 <td width="50%" valign="top">
 
-🧠 Engineering Interests
+### 🤖 Engineering Interests
 
-My interests sit at the intersection of:
+I enjoy working at the intersection of:
 
-Artificial Intelligence
-Backend Engineering
-Natural Language Processing
-Multi-Agent Systems
-Cloud Engineering
-Observability
-Automation
-
-<br/>
-
-🚀 Current Focus
-
-Currently exploring:
-
-LLM applications
-Agent orchestration
-Multi-agent workflows
-Structured evaluation
-Production AI systems
-Logging & observability
-
-</td> </tr> </table>
-
-<div align="center">
-
-🛠 Technical Arsenal
-
-The technologies I use to build, ship, and operate software.
-
-</div>
+- Backend Engineering
+- Artificial Intelligence
+- Natural Language Processing
+- Multi-Agent Systems
+- Cloud Engineering
+- Observability
+- Automation
 
 <br/>
 
-💻 Languages
+### 🚀 Current Focus
 
+Exploring production-ready applications using:
 
+- Python
+- LLM architectures
+- Agent orchestration
+- Structured evaluation
+- Logging & observability
 
+</td>
+</tr>
+</table>
 
-
-
-
-⚙️ Backend & APIs
-
-
-
-
-
-
-🎨 Frontend
-
-
-
-
-
-☁️ Cloud · DevOps · Observability
-
-
-
-
-
-
-
-
-
-🤖 AI & Intelligent Systems
-
-
-
-
-
-
-
+---
 
 <div align="center">
 
-💼 Professional Experience
+## 🛠️ Technical Arsenal
+
+### Technologies I use to build, ship, and monitor software.
 
 </div>
 
-Software Engineer · Accenture Solutions Pvt. Ltd.
+### 💻 Languages
 
-July 2021 — July 2023
+<p align="left">
 
-Built and owned backend capabilities using Java, Spring Boot, and SQL Server, supporting reliable application releases across multiple environments.
-Designed and enhanced REST APIs, validation logic, and service contracts, reducing manual testing effort by approximately 40% and improving sprint delivery efficiency.
-Delivered responsive frontend enhancements with React and JavaScript, integrating UI workflows with backend services and improving reusable component design.
-Investigated production issues and performance regressions using SQL and Kusto Query Language (KQL), reducing root-cause identification time by approximately 25%.
-Configured dashboards, telemetry, alert thresholds, and operational monitoring through Azure Monitor, contributing to an approximately 35% reduction in incident response time.
-Managed source control and deployment workflows using Git, Azure DevOps, and CI/CD pipelines, reducing manual deployment steps and configuration drift between environments.
-Participated in production support and on-call workflows, authored Troubleshooting Guides (TSGs), and helped establish repeatable incident-resolution processes.
+<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F97316" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=FACC15" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=60A5FA" alt="SQL"/>
+
+</p>
+
+### ⚙️ Backend & APIs
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Spring_Boot-111827?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge&logo=fastapi&logoColor=14B8A6" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/SQL_Server-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=EF4444" alt="SQL Server"/>
+
+</p>
+
+### 🎨 Frontend
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+
+</p>
+
+### ☁️ Cloud, DevOps & Observability
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Microsoft_Azure-111827?style=for-the-badge&logo=microsoftazure&logoColor=38BDF8" alt="Azure"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-111827?style=for-the-badge&logo=azuredevops&logoColor=38BDF8" alt="Azure DevOps"/>
+<img src="https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge&logo=githubactions&logoColor=60A5FA" alt="CI/CD"/>
+<img src="https://img.shields.io/badge/Azure_Monitor-111827?style=for-the-badge&logo=microsoftazure&logoColor=0EA5E9" alt="Azure Monitor"/>
+<img src="https://img.shields.io/badge/KQL-111827?style=for-the-badge&logo=microsoftazure&logoColor=22D3EE" alt="KQL"/>
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F97316" alt="Git"/>
+
+</p>
+
+### 🧠 AI & Intelligent Systems
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge&logo=huggingface&logoColor=FACC15" alt="NLP"/>
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="LLMs"/>
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-111827?style=for-the-badge&logo=probot&logoColor=38BDF8" alt="Multi-Agent Systems"/>
+<img src="https://img.shields.io/badge/Machine_Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=F97316" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Structured_Evaluation-111827?style=for-the-badge&logo=databricks&logoColor=EF4444" alt="Structured Evaluation"/>
+
+</p>
+
+---
 
 <div align="center">
 
-🚀 Featured Projects
-
-Projects where AI meets practical software engineering.
+## 💼 Professional Experience
 
 </div>
 
-<br/>
+### Software Engineer — Accenture Solutions Pvt. Ltd.
 
-<table> <tr> <td width="50%" valign="top">
+**July 2021 – July 2023**
 
-<h2 align="center">🤖 Leveling AI</h2>
+- Built and owned backend capabilities using **Java, Spring Boot, and SQL Server**, supporting reliable application releases across multiple environments.
 
-<p align="center"> <a href="https://github.com/RohanReddyThoodi01/leveling-ai"> <img src="https://img.shields.io/badge/EXPLORE_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Leveling AI"/> </a> </p>
+- Designed and enhanced **REST APIs, validation logic, and service contracts**, reducing manual testing effort by approximately **40%** and improving sprint delivery efficiency.
 
-A multi-agent AI platform developed using Python and modern LLM architecture.
+- Delivered responsive frontend enhancements using **React and JavaScript**, integrating UI workflows with backend services and improving component reuse.
 
-⚡ Highlights
-Agent orchestration
-Multi-agent workflows
-Structured evaluation
-Comprehensive logging
-LLM-powered execution flows
-🧰 Stack
+- Investigated production issues and performance regressions using **SQL and Kusto Query Language (KQL)**, reducing root-cause identification time by approximately **25%**.
 
+- Configured dashboards, telemetry, alert thresholds, and operational monitoring using **Azure Monitor**, contributing to a roughly **35% reduction in incident response time**.
 
+- Managed source control and deployment workflows through **Git, Azure DevOps, and CI/CD pipelines**, reducing manual deployment steps and environment configuration drift.
 
+- Participated in production support and on-call workflows, authored **Troubleshooting Guides (TSGs)**, and helped standardize repeatable incident-resolution processes.
 
+---
 
+<div align="center">
+
+## 🚀 Featured Projects
+
+### Projects that reflect my interest in intelligent software and practical engineering.
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 Leveling AI</h3>
+
+<p align="center">
+  <a href="https://github.com/RohanReddyThoodi01/leveling-ai">
+    <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Leveling AI"/>
+  </a>
+</p>
+
+A **multi-agent AI platform** developed using Python and modern LLM architecture.
+
+### Highlights
+
+- Agent orchestration
+- Multi-agent workflows
+- Structured evaluation
+- Comprehensive logging
+- LLM-powered execution flows
+
+### Built With
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/LLMs-111827?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Agents-111827?style=flat-square&logo=probot&logoColor=38BDF8"/>
+
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h2 align="center">📄 Contract Parser</h2>
+<h3 align="center">📄 Contract Parser</h3>
 
-<p align="center"> <a href="https://github.com/RohanReddyThoodi01/Contract-parser"> <img src="https://img.shields.io/badge/EXPLORE_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Contract Parser"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/RohanReddyThoodi01/Contract-parser">
+    <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Contract Parser"/>
+  </a>
+</p>
 
-An NLP and machine-learning pipeline for extracting, categorizing, and validating structured information from complex legal contracts.
+An **NLP and machine-learning pipeline** designed to process complex legal contracts and extract meaningful structured information.
 
-⚡ Highlights
-Clause extraction
-Text classification
-Field identification
-Validation workflows
-Structured document processing
-🧰 Stack
+### Highlights
 
+- Clause extraction
+- Text classification
+- Field identification
+- Validation workflows
+- Structured document processing
 
+### Built With
 
+<p>
 
+<img src="https://img.shields.io/badge/NLP-111827?style=flat-square&logo=huggingface&logoColor=FACC15"/>
+<img src="https://img.shields.io/badge/Machine_Learning-111827?style=flat-square&logo=scikitlearn&logoColor=F97316"/>
+<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=38BDF8"/>
 
+</p>
 
-</td> </tr> </table>
+</td>
+
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-🧠 Engineering Focus
+## 🧠 Engineering Focus
 
 </div>
 
-<table> <tr>
+<table>
+<tr>
 
 <td align="center" width="25%">
 
-🤖 AI
+### 🤖 AI Systems
 
-LLMs
-
-Multi-Agent Systems
-
-NLP Workflows
-
-Evaluation
+LLM applications  
+Multi-agent systems  
+NLP workflows  
+Evaluation pipelines
 
 </td>
 
 <td align="center" width="25%">
 
-⚙️ Backend
+### ⚙️ Backend
 
-Java
-
-Spring Boot
-
-REST APIs
-
+Java  
+Spring Boot  
+REST APIs  
 SQL
 
 </td>
 
 <td align="center" width="25%">
 
-☁️ Cloud
+### ☁️ Cloud
 
-Azure
-
-Azure DevOps
-
-CI/CD
-
+Azure  
+Azure DevOps  
+CI/CD  
 Monitoring
 
 </td>
 
 <td align="center" width="25%">
 
-📊 Reliability
+### 📊 Reliability
 
-KQL
-
-Telemetry
-
-Alerting
-
+KQL  
+Telemetry  
+Alerting  
 Production Support
 
 </td>
 
-</tr> </table>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-🎓 Education
-University of Central Florida
+## 🎓 Education
 
-Master of Science in Computer Science
+### University of Central Florida
 
-GPA · 3.67 / 4.0
+**Master of Science in Computer Science**
+
+**GPA: 3.67 / 4.0**
+
+</div>
+
+### Relevant Coursework
+
+`Advanced Data Structures & Algorithms`
+&nbsp;
+`Machine Learning`
+&nbsp;
+`Distributed Systems`
+&nbsp;
+`Natural Language Processing`
+&nbsp;
+`Computer Vision`
+&nbsp;
+`Current Topics in Machine Learning`
+&nbsp;
+`Advanced Computer Architecture`
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=RohanReddyThoodi01&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=0ea5e9&text_color=cbd5e1&ring_color=38bdf8"
+  alt="Rohan's GitHub Stats"
+/>
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanReddyThoodi01&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1"
+  alt="Top Languages"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=RohanReddyThoodi01&bg_color=0d1117&color=cbd5e1&line=38bdf8&point=ffffff&area=true&hide_border=true"
+  width="95%"
+  alt="GitHub Activity Graph"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧩 What I Bring to a Team
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### ⚡ Production Mindset
+
+I focus on software that is not only functional, but also **maintainable, observable, testable, and reliable**.
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### 🧠 Continuous Learning
+
+I enjoy learning emerging technologies while maintaining a strong foundation in **computer science and software engineering fundamentals**.
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### 🤝 Engineering Collaboration
+
+I value clear documentation, reusable solutions, structured troubleshooting, and collaborative engineering practices.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📬 Let's Connect
+
+I'm interested in opportunities involving **Software Engineering, Backend Development, AI Engineering, and intelligent cloud applications**.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/rohan-reddy-thoodi/">
+  <img src="https://img.shields.io/badge/LinkedIn-Rohan_Reddy_Thoodi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:rohanth2d@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-rohanth2d%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/RohanReddyThoodi01">
+  <img src="https://img.shields.io/badge/GitHub-RohanReddyThoodi01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+### 💬 Always open to discussing software engineering, backend systems, AI, and interesting technical problems.
 
 </div>
 
 <br/>
 
-📚 Relevant Coursework
+<!-- ========================= -->
+<!--          FOOTER           -->
+<!-- ========================= -->
 
-
-
-
-
-
-
-
-
-
-<div align="center">
-
-📈 GitHub Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RohanReddyThoodi01&bg_color=0D1117&color=E2E8F0&line=8B5CF6&point=22D3EE&area=true&hide_border=true" width="96%" alt="Rohan Reddy Thoodi GitHub Activity" />
-
-</div>
-
-<div align="center">
-
-✦ What I Bring to a Team
-
-</div>
-
-<table> <tr>
-
-<td width="33%" valign="top" align="center">
-
-⚡ Production Mindset
-
-I build with reliability, maintainability, observability, and long-term usability in mind.
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-🧠 Engineering Curiosity
-
-I enjoy exploring emerging technologies while maintaining strong foundations in computer science and software engineering.
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-🤝 Collaboration
-
-I value clear documentation, reusable solutions, structured troubleshooting, and strong engineering communication.
-
-</td>
-
-</tr> </table>
-
-<div align="center">
-
-📬 Let's Build Something Great
-
-I'm interested in opportunities across Software Engineering · Backend Development · AI Engineering · Cloud Applications
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/rohan-reddy-thoodi/"> <img src="https://img.shields.io/badge/LinkedIn-ROHAN_REDDY_THOODI-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
-
- 
-
-<a href="mailto:rohanth2d@gmail.com"> <img src="https://img.shields.io/badge/Email-rohanth2d%40gmail.com-9333EA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a>
-
- 
-
-<a href="https://github.com/RohanReddyThoodi01"> <img src="https://img.shields.io/badge/GitHub-RohanReddyThoodi01-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
-
-<br/><br/>
-
-⚡ Software Engineering · 🤖 Artificial Intelligence · ☁️ Cloud · 🧠 Intelligent Systems
-
-<br/>
-
-Thanks for visiting.
-
-</div>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0ea5e9,55:111827,100:0f172a"
+  width="100%"
+  alt="Footer"
+/>
