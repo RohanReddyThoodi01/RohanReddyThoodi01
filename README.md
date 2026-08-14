@@ -1,15 +1,16 @@
-```html
 <div align="center">
 
   <!-- ========================= -->
+
   <!--        HERO HEADER        -->
+
   <!-- ========================= -->
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0F172A,20:312E81,45:7C3AED,70:2563EB,100:06B6D4&text=ROHAN%20REDDY%20THOODI&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20%E2%80%A2%20Backend%20%E2%80%A2%20Cloud&descAlignY=58&descSize=19&descColor=E0F2FE&animation=fadeIn"
-    width="100%"
-    alt="Rohan Reddy Thoodi Header"
-  />
+<img
+ src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0F172A,20:312E81,45:7C3AED,70:2563EB,100:06B6D4&text=ROHAN%20REDDY%20THOODI&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20%E2%80%A2%20Backend%20%E2%80%A2%20Cloud&descAlignY=58&descSize=19&descColor=E0F2FE&animation=fadeIn"
+ width="100%"
+ alt="Rohan Reddy Thoodi Header"
+/>
 
   <a href="https://git.io/typing-svg">
     <img
@@ -18,7 +19,7 @@
     />
   </a>
 
-  <br/><br/>
+<br/><br/>
 
   <a href="https://www.linkedin.com/in/rohan-reddy-thoodi/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -58,7 +59,7 @@
 
 ### 🎓 Education
 
-**Master of Science in Computer Science**  
+**Master of Science in Computer Science**
 University of Central Florida
 
 **GPA:** 3.67 / 4.0
@@ -71,11 +72,11 @@ University of Central Florida
 
 Built and supported:
 
-- Production backend services
-- REST APIs
-- React applications
-- Azure DevOps pipelines
-- Monitoring and telemetry solutions
+* Production backend services
+* REST APIs
+* React applications
+* Azure DevOps pipelines
+* Monitoring and telemetry solutions
 
 </td>
 
@@ -85,13 +86,13 @@ Built and supported:
 
 I enjoy working at the intersection of:
 
-- Backend Engineering
-- Artificial Intelligence
-- Natural Language Processing
-- Multi-Agent Systems
-- Cloud Engineering
-- Observability
-- Automation
+* Backend Engineering
+* Artificial Intelligence
+* Natural Language Processing
+* Multi-Agent Systems
+* Cloud Engineering
+* Observability
+* Automation
 
 <br/>
 
@@ -99,11 +100,11 @@ I enjoy working at the intersection of:
 
 Exploring production-ready applications using:
 
-- Python
-- LLM architectures
-- Agent orchestration
-- Structured evaluation
-- Logging & observability
+* Python
+* LLM architectures
+* Agent orchestration
+* Structured evaluation
+* Logging & observability
 
 </td>
 </tr>
@@ -167,7 +168,7 @@ Exploring production-ready applications using:
 <p align="left">
 
 <img src="https://img.shields.io/badge/NLP-1E1B4B?style=for-the-badge&logo=huggingface&logoColor=FDE047" alt="NLP"/>
-<img src="https://img.shields.io/badge/LLMs-1E1B4B?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="LLMs"/>
+<img src="https://img.shields.io/badge/LLMs-1E1B4B?style=for-the-badge&logoColor=FFFFFF" alt="LLMs"/>
 <img src="https://img.shields.io/badge/Multi--Agent_Systems-1E1B4B?style=for-the-badge&logo=probot&logoColor=67E8F9" alt="Multi-Agent Systems"/>
 <img src="https://img.shields.io/badge/Machine_Learning-1E1B4B?style=for-the-badge&logo=scikitlearn&logoColor=F59E0B" alt="Machine Learning"/>
 <img src="https://img.shields.io/badge/Structured_Evaluation-1E1B4B?style=for-the-badge&logo=databricks&logoColor=F472B6" alt="Structured Evaluation"/>
@@ -186,19 +187,19 @@ Exploring production-ready applications using:
 
 **July 2021 – July 2023**
 
-- Built and owned backend capabilities using **Java, Spring Boot, and SQL Server**, supporting reliable application releases across multiple environments.
+* Built and owned backend capabilities using **Java, Spring Boot, and SQL Server**, supporting reliable application releases across multiple environments.
 
-- Designed and enhanced **REST APIs, validation logic, and service contracts**, reducing manual testing effort by approximately **40%** and improving sprint delivery efficiency.
+* Designed and enhanced **REST APIs, validation logic, and service contracts**, reducing manual testing effort by approximately **40%** and improving sprint delivery efficiency.
 
-- Delivered responsive frontend enhancements using **React and JavaScript**, integrating UI workflows with backend services and improving component reuse.
+* Delivered responsive frontend enhancements using **React and JavaScript**, integrating UI workflows with backend services and improving component reuse.
 
-- Investigated production issues and performance regressions using **SQL and Kusto Query Language (KQL)**, reducing root-cause identification time by approximately **25%**.
+* Investigated production issues and performance regressions using **SQL and Kusto Query Language (KQL)**, reducing root-cause identification time by approximately **25%**.
 
-- Configured dashboards, telemetry, alert thresholds, and operational monitoring using **Azure Monitor**, contributing to a roughly **35% reduction in incident response time**.
+* Configured dashboards, telemetry, alert thresholds, and operational monitoring using **Azure Monitor**, contributing to a roughly **35% reduction in incident response time**.
 
-- Managed source control and deployment workflows through **Git, Azure DevOps, and CI/CD pipelines**, reducing manual deployment steps and environment configuration drift.
+* Managed source control and deployment workflows through **Git, Azure DevOps, and CI/CD pipelines**, reducing manual deployment steps and environment configuration drift.
 
-- Participated in production support and on-call workflows, authored **Troubleshooting Guides (TSGs)**, and helped standardize repeatable incident-resolution processes.
+* Participated in production support and on-call workflows, authored **Troubleshooting Guides (TSGs)**, and helped standardize repeatable incident-resolution processes.
 
 ---
 
@@ -227,18 +228,18 @@ A **multi-agent AI platform** developed using Python and modern LLM architecture
 
 ### Highlights
 
-- Agent orchestration
-- Multi-agent workflows
-- Structured evaluation
-- Comprehensive logging
-- LLM-powered execution flows
+* Agent orchestration
+* Multi-agent workflows
+* Structured evaluation
+* Comprehensive logging
+* LLM-powered execution flows
 
 ### Built With
 
 <p>
 
 <img src="https://img.shields.io/badge/Python-312E81?style=flat-square&logo=python&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/LLMs-312E81?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-312E81?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI_Agents-312E81?style=flat-square&logo=probot&logoColor=67E8F9"/>
 
 </p>
@@ -259,11 +260,11 @@ An **NLP and machine-learning pipeline** designed to process complex legal contr
 
 ### Highlights
 
-- Clause extraction
-- Text classification
-- Field identification
-- Validation workflows
-- Structured document processing
+* Clause extraction
+* Text classification
+* Field identification
+* Validation workflows
+* Structured document processing
 
 ### Built With
 
@@ -295,9 +296,9 @@ An **NLP and machine-learning pipeline** designed to process complex legal contr
 
 ### 🤖 AI Systems
 
-LLM applications  
-Multi-agent systems  
-NLP workflows  
+LLM applications
+Multi-agent systems
+NLP workflows
 Evaluation pipelines
 
 </td>
@@ -306,9 +307,9 @@ Evaluation pipelines
 
 ### ⚙️ Backend
 
-Java  
-Spring Boot  
-REST APIs  
+Java
+Spring Boot
+REST APIs
 SQL
 
 </td>
@@ -317,9 +318,9 @@ SQL
 
 ### ☁️ Cloud
 
-Azure  
-Azure DevOps  
-CI/CD  
+Azure
+Azure DevOps
+CI/CD
 Monitoring
 
 </td>
@@ -328,9 +329,9 @@ Monitoring
 
 ### 📊 Reliability
 
-KQL  
-Telemetry  
-Alerting  
+KQL
+Telemetry
+Alerting
 Production Support
 
 </td>
@@ -355,17 +356,17 @@ Production Support
 ### Relevant Coursework
 
 `Advanced Data Structures & Algorithms`
-&nbsp;
+ 
 `Machine Learning`
-&nbsp;
+ 
 `Distributed Systems`
-&nbsp;
+ 
 `Natural Language Processing`
-&nbsp;
+ 
 `Computer Vision`
-&nbsp;
+ 
 `Current Topics in Machine Learning`
-&nbsp;
+ 
 `Advanced Computer Architecture`
 
 ---
@@ -375,9 +376,9 @@ Production Support
 ## 📈 GitHub Activity
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=RohanReddyThoodi01&bg_color=0F172A&color=E2E8F0&line=A78BFA&point=22D3EE&area=true&hide_border=true"
-  width="95%"
-  alt="Rohan's GitHub Activity Graph"
+src="https://github-readme-activity-graph.vercel.app/graph?username=RohanReddyThoodi01&bg_color=0F172A&color=E2E8F0&line=A78BFA&point=22D3EE&area=true&hide_border=true"
+width="95%"
+alt="Rohan's GitHub Activity Graph"
 />
 
 </div>
@@ -451,12 +452,13 @@ I'm interested in opportunities involving **Software Engineering, Backend Develo
 <br/>
 
 <!-- ========================= -->
+
 <!--          FOOTER           -->
+
 <!-- ========================= -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:06B6D4,35:2563EB,65:7C3AED,100:0F172A"
-  width="100%"
-  alt="Footer"
+src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:06B6D4,35:2563EB,65:7C3AED,100:0F172A"
+width="100%"
+alt="Footer"
 />
-```
