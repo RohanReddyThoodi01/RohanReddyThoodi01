@@ -1,3 +1,4 @@
+```html
 <div align="center">
 
   <!-- ========================= -->
@@ -5,14 +6,14 @@
   <!-- ========================= -->
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,45:111827,100:0ea5e9&text=ROHAN%20REDDY%20THOODI&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20%E2%80%A2%20Backend%20%E2%80%A2%20Cloud&descAlignY=58&descSize=18&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0F172A,20:312E81,45:7C3AED,70:2563EB,100:06B6D4&text=ROHAN%20REDDY%20THOODI&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20%E2%80%A2%20Backend%20%E2%80%A2%20Cloud&descAlignY=58&descSize=19&descColor=E0F2FE&animation=fadeIn"
     width="100%"
     alt="Rohan Reddy Thoodi Header"
   />
 
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+Java+%7C+Python;Building+Production-Grade+Backend+Systems;Exploring+LLMs+%26+Multi-Agent+AI+Systems;Cloud+%7C+CI%2FCD+%7C+Observability+%7C+Automation;Turning+Ideas+Into+Reliable+Software"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Java+%7C+Python;Building+Production-Grade+Backend+Systems;Exploring+LLMs+%26+Multi-Agent+AI+Systems;Cloud+%7C+CI%2FCD+%7C+Observability+%7C+Automation;Turning+Ideas+Into+Reliable+Software"
       alt="Typing SVG"
     />
   </a>
@@ -20,15 +21,15 @@
   <br/><br/>
 
   <a href="https://www.linkedin.com/in/rohan-reddy-thoodi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:rohanth2d@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://github.com/RohanReddyThoodi01">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
 </div>
@@ -41,7 +42,7 @@
 
 ## ⚡ Professional Snapshot
 
-### Software Engineer focused on building scalable systems, intelligent applications, and reliable cloud-backed software.
+### Software Engineer focused on scalable backend systems, intelligent AI applications, and reliable cloud engineering.
 
 > *"Building production-grade software today while exploring the intelligent systems of tomorrow."*
 
@@ -122,10 +123,10 @@ Exploring production-ready applications using:
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F97316" alt="Java"/>
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=FACC15" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=60A5FA" alt="SQL"/>
+<img src="https://img.shields.io/badge/Java-1E1B4B?style=for-the-badge&logo=openjdk&logoColor=F97316" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-1E1B4B?style=for-the-badge&logo=python&logoColor=60A5FA" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-1E1B4B?style=for-the-badge&logo=javascript&logoColor=FACC15" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/SQL-1E1B4B?style=for-the-badge&logo=postgresql&logoColor=22D3EE" alt="SQL"/>
 
 </p>
 
@@ -133,9 +134,9 @@ Exploring production-ready applications using:
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Spring_Boot-111827?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge&logo=fastapi&logoColor=14B8A6" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/SQL_Server-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=EF4444" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/Spring_Boot-1E1B4B?style=for-the-badge&logo=springboot&logoColor=86EFAC" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/REST_APIs-1E1B4B?style=for-the-badge&logo=fastapi&logoColor=2DD4BF" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/SQL_Server-1E1B4B?style=for-the-badge&logo=microsoftsqlserver&logoColor=F87171" alt="SQL Server"/>
 
 </p>
 
@@ -143,8 +144,8 @@ Exploring production-ready applications using:
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-1E1B4B?style=for-the-badge&logo=react&logoColor=67E8F9" alt="React"/>
+<img src="https://img.shields.io/badge/JavaScript-1E1B4B?style=for-the-badge&logo=javascript&logoColor=FDE047" alt="JavaScript"/>
 
 </p>
 
@@ -152,12 +153,12 @@ Exploring production-ready applications using:
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Microsoft_Azure-111827?style=for-the-badge&logo=microsoftazure&logoColor=38BDF8" alt="Azure"/>
-<img src="https://img.shields.io/badge/Azure_DevOps-111827?style=for-the-badge&logo=azuredevops&logoColor=38BDF8" alt="Azure DevOps"/>
-<img src="https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge&logo=githubactions&logoColor=60A5FA" alt="CI/CD"/>
-<img src="https://img.shields.io/badge/Azure_Monitor-111827?style=for-the-badge&logo=microsoftazure&logoColor=0EA5E9" alt="Azure Monitor"/>
-<img src="https://img.shields.io/badge/KQL-111827?style=for-the-badge&logo=microsoftazure&logoColor=22D3EE" alt="KQL"/>
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F97316" alt="Git"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-1E1B4B?style=for-the-badge&logo=microsoftazure&logoColor=38BDF8" alt="Azure"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-1E1B4B?style=for-the-badge&logo=azuredevops&logoColor=60A5FA" alt="Azure DevOps"/>
+<img src="https://img.shields.io/badge/CI%2FCD-1E1B4B?style=for-the-badge&logo=githubactions&logoColor=A78BFA" alt="CI/CD"/>
+<img src="https://img.shields.io/badge/Azure_Monitor-1E1B4B?style=for-the-badge&logo=microsoftazure&logoColor=22D3EE" alt="Azure Monitor"/>
+<img src="https://img.shields.io/badge/KQL-1E1B4B?style=for-the-badge&logo=microsoftazure&logoColor=C084FC" alt="KQL"/>
+<img src="https://img.shields.io/badge/Git-1E1B4B?style=for-the-badge&logo=git&logoColor=FB7185" alt="Git"/>
 
 </p>
 
@@ -165,11 +166,11 @@ Exploring production-ready applications using:
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge&logo=huggingface&logoColor=FACC15" alt="NLP"/>
-<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="LLMs"/>
-<img src="https://img.shields.io/badge/Multi--Agent_Systems-111827?style=for-the-badge&logo=probot&logoColor=38BDF8" alt="Multi-Agent Systems"/>
-<img src="https://img.shields.io/badge/Machine_Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=F97316" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Structured_Evaluation-111827?style=for-the-badge&logo=databricks&logoColor=EF4444" alt="Structured Evaluation"/>
+<img src="https://img.shields.io/badge/NLP-1E1B4B?style=for-the-badge&logo=huggingface&logoColor=FDE047" alt="NLP"/>
+<img src="https://img.shields.io/badge/LLMs-1E1B4B?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="LLMs"/>
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-1E1B4B?style=for-the-badge&logo=probot&logoColor=67E8F9" alt="Multi-Agent Systems"/>
+<img src="https://img.shields.io/badge/Machine_Learning-1E1B4B?style=for-the-badge&logo=scikitlearn&logoColor=F59E0B" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Structured_Evaluation-1E1B4B?style=for-the-badge&logo=databricks&logoColor=F472B6" alt="Structured Evaluation"/>
 
 </p>
 
@@ -218,7 +219,7 @@ Exploring production-ready applications using:
 
 <p align="center">
   <a href="https://github.com/RohanReddyThoodi01/leveling-ai">
-    <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Leveling AI"/>
+    <img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Leveling AI"/>
   </a>
 </p>
 
@@ -236,9 +237,9 @@ A **multi-agent AI platform** developed using Python and modern LLM architecture
 
 <p>
 
-<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/LLMs-111827?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI_Agents-111827?style=flat-square&logo=probot&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Python-312E81?style=flat-square&logo=python&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/LLMs-312E81?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Agents-312E81?style=flat-square&logo=probot&logoColor=67E8F9"/>
 
 </p>
 
@@ -250,7 +251,7 @@ A **multi-agent AI platform** developed using Python and modern LLM architecture
 
 <p align="center">
   <a href="https://github.com/RohanReddyThoodi01/Contract-parser">
-    <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Contract Parser"/>
+    <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Contract Parser"/>
   </a>
 </p>
 
@@ -268,9 +269,9 @@ An **NLP and machine-learning pipeline** designed to process complex legal contr
 
 <p>
 
-<img src="https://img.shields.io/badge/NLP-111827?style=flat-square&logo=huggingface&logoColor=FACC15"/>
-<img src="https://img.shields.io/badge/Machine_Learning-111827?style=flat-square&logo=scikitlearn&logoColor=F97316"/>
-<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/NLP-312E81?style=flat-square&logo=huggingface&logoColor=FDE047"/>
+<img src="https://img.shields.io/badge/Machine_Learning-312E81?style=flat-square&logo=scikitlearn&logoColor=F59E0B"/>
+<img src="https://img.shields.io/badge/Python-312E81?style=flat-square&logo=python&logoColor=60A5FA"/>
 
 </p>
 
@@ -371,12 +372,27 @@ Production Support
 
 <div align="center">
 
+## 📈 GitHub Activity
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=RohanReddyThoodi01&bg_color=0F172A&color=E2E8F0&line=A78BFA&point=22D3EE&area=true&hide_border=true"
+  width="95%"
+  alt="Rohan's GitHub Activity Graph"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🧩 What I Bring to a Team
 
 </div>
 
 <table>
 <tr>
+
 <td width="33%" valign="top" align="center">
 
 ### ⚡ Production Mindset
@@ -400,6 +416,7 @@ I enjoy learning emerging technologies while maintaining a strong foundation in 
 I value clear documentation, reusable solutions, structured troubleshooting, and collaborative engineering practices.
 
 </td>
+
 </tr>
 </table>
 
@@ -411,18 +428,18 @@ I value clear documentation, reusable solutions, structured troubleshooting, and
 
 I'm interested in opportunities involving **Software Engineering, Backend Development, AI Engineering, and intelligent cloud applications**.
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/rohan-reddy-thoodi/">
-  <img src="https://img.shields.io/badge/LinkedIn-Rohan_Reddy_Thoodi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Rohan_Reddy_Thoodi-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:rohanth2d@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-rohanth2d%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-rohanth2d%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://github.com/RohanReddyThoodi01">
-  <img src="https://img.shields.io/badge/GitHub-RohanReddyThoodi01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-RohanReddyThoodi01-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
@@ -438,7 +455,8 @@ I'm interested in opportunities involving **Software Engineering, Backend Develo
 <!-- ========================= -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0ea5e9,55:111827,100:0f172a"
+  src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:06B6D4,35:2563EB,65:7C3AED,100:0F172A"
   width="100%"
   alt="Footer"
 />
+```
