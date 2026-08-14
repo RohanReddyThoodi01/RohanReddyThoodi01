@@ -1,4 +1,3 @@
-Here is the complete, full Markdown code with all your sections combined (Header, Snapshot, About Me, Tech Stack, Education, and Accenture Experience):
 
 ```markdown
 <div align="center">
