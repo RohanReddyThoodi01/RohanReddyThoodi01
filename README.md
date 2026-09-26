@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,100:1a202c&amp;height=200&amp;section=header&amp;text=ROHAN%20REDDY%20THOODI&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20AI%20Systems%20%7C%20Backend%20%26%20Frontend%20%7C%20Cloud&amp;descSize=18&amp;descAlignY=62" width="100%" />
+<img src="./assets/header.svg" alt="Rohan Reddy Thoodi — Software Engineer | AI Systems | Backend & Frontend | Cloud" width="100%" />
 
 <br />
 
