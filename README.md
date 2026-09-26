@@ -1,18 +1,11 @@
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,100:1a202c&amp;height=200&amp;section=header&amp;text=ROHAN%20REDDY%20THOODI&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20AI%20Systems%20%7C%20Backend%20%26%20Frontend%20%7C%20Cloud&amp;descSize=18&amp;descAlignY=62"
-  alt="Rohan Reddy Thoodi - Software Engineer"
-  width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,100:1a202c&amp;height=200&amp;section=header&amp;text=ROHAN%20REDDY%20THOODI&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20AI%20Systems%20%7C%20Backend%20%26%20Frontend%20%7C%20Cloud&amp;descSize=18&amp;descAlignY=62" width="100%" />
 
 <br />
 
-<a href="https://github.com/RohanReddyThoodi01">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=61AFEF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Software+Engineer+%40+SMBC+Bank;Ex-Software+Engineer+%40+Accenture;MS+in+Computer+Science+%40+UCF;Building+Backend%2C+Frontend%2C+AI+%26+Cloud+Systems;Java+%7C+Python+%7C+Spring+Boot+%7C+React+%7C+Angular+%7C+Azure"
-    alt="Typing SVG"
-  />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+SMBC+Bank;Ex-Software+Engineer+%40+Accenture;MS+in+Computer+Science+%40+UCF;Building+Backend%2C+AI+Agents+%26+Cloud+Systems;Java+%7C+Python+%7C+Spring+Boot+%7C+Angular+%7C+Azure" alt="Typing SVG" />
 </a>
 
 <br /><br />
@@ -39,11 +32,11 @@
 
 ## ⚡ Professional Snapshot
 
-> **Software Engineer focused on building scalable backend and frontend systems, intelligent applications, and reliable cloud-backed software.**
+> **Software Engineer focused on building scalable systems, intelligent applications, and reliable cloud-backed software.**
 
 *"Building production-grade software today while exploring the intelligent systems of tomorrow."*
 
-Currently working as a **Software Engineer at SMBC Bank**, developing secure banking applications using **Java, Spring Boot, REST APIs, Angular, SQL Server, and Azure**.
+Currently working as a **Software Engineer at SMBC Bank**, developing secure banking applications using Java, Spring Boot, REST APIs, Angular, SQL Server, and Azure.
 
 Previously worked at **Accenture**, building production backend services, frontend applications, cloud deployment pipelines, and observability solutions.
 
@@ -57,79 +50,56 @@ Previously worked at **Accenture**, building production backend services, fronte
 
 <td width="50%" valign="top">
 
-<h3>🎓 Education</h3>
+### 🎓 Education
 
-<ul>
-<li>
-<strong>Master of Science in Computer Science</strong>
-<ul>
-<li>University of Central Florida</li>
-<li>GPA: 3.67 / 4.0</li>
-</ul>
-</li>
-</ul>
+* **Master of Science in Computer Science**
+  * University of Central Florida
+  * **GPA:** 3.67 / 4.0
 
-<h3>💼 Industry Experience</h3>
+### 💼 Industry Experience
 
-<ul>
-<li>
-<strong>Software Engineer — SMBC Bank</strong>
-<ul>
-<li>June 2025 – Present</li>
-<li>Remote | Orlando, Florida</li>
-</ul>
-</li>
+* **Software Engineer — SMBC Bank**
+  * June 2025 – Present
+  * Remote | Orlando, Florida
 
-<li>
-<strong>Software Engineer — Accenture</strong>
-<ul>
-<li>July 2021 – July 2023</li>
-</ul>
-</li>
-</ul>
+* **Software Engineer — Accenture**
+  * July 2021 – July 2023
 
-<h3>🏗️ Engineering Experience</h3>
+### 🏗️ Engineering Experience
 
-<ul>
-<li>Production backend services</li>
-<li>Secure banking applications</li>
-<li>REST API development</li>
-<li>React and Angular applications</li>
-<li>SQL Server optimization</li>
-<li>Azure DevOps pipelines</li>
-<li>Monitoring and telemetry solutions</li>
-</ul>
+* Production backend services
+* Secure banking applications
+* REST API development
+* React and Angular applications
+* SQL Server optimization
+* Azure DevOps pipelines
+* Monitoring and telemetry solutions
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🤖 Engineering Interests</h3>
+### 🤖 Engineering Interests
 
-<p>I enjoy working at the intersection of:</p>
+I enjoy working at the intersection of:
 
-<ul>
-<li>Backend Engineering</li>
-<li>Frontend Engineering</li>
-<li>Artificial Intelligence</li>
-<li>Natural Language Processing</li>
-<li>Multi-Agent Systems</li>
-<li>Cloud Engineering</li>
-<li>Observability</li>
-<li>Automation</li>
-</ul>
+* Backend Engineering
+* Artificial Intelligence
+* Natural Language Processing
+* Multi-Agent Systems
+* Cloud Engineering
+* Observability
+* Automation
 
-<h3>🚀 Current Focus</h3>
+### 🚀 Current Focus
 
-<p>Exploring production-ready applications using:</p>
+Exploring production-ready applications using:
 
-<ul>
-<li>Python</li>
-<li>LLM architectures</li>
-<li>Agent orchestration</li>
-<li>Structured evaluation</li>
-<li>Logging &amp; observability</li>
-</ul>
+* Python
+* LLM architectures
+* Agent orchestration
+* Structured evaluation
+* Logging & observability
 
 </td>
 
@@ -161,11 +131,11 @@ Previously worked at **Accenture**, building production backend services, fronte
 
 <p>
 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 
 <img src="https://img.shields.io/badge/REST_APIs-0055E5?style=for-the-badge&logo=json&logoColor=white" />
 
-<img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 
 </p>
 
@@ -185,11 +155,11 @@ Previously worked at **Accenture**, building production backend services, fronte
 
 <p>
 
-<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
 
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 
@@ -207,9 +177,9 @@ Previously worked at **Accenture**, building production backend services, fronte
 
 <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Multi--Agent_Systems-000000?style=for-the-badge&logo=robotframework&logoColor=white" />
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-000000?style=for-the-badge&logo=robotics&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Structured_Evaluation-228B22?style=for-the-badge&logo=checkmarx&logoColor=white" />
 
@@ -263,65 +233,45 @@ Previously worked at **Accenture**, building production backend services, fronte
 
 <td width="50%" valign="top">
 
-<h3>🤖 Leveling AI</h3>
+### 🤖 Leveling AI
 
-<a href="https://github.com/RohanReddyThoodi01">
-<img src="https://img.shields.io/badge/Repository-Leveling_AI-blue?style=for-the-badge&logo=github" />
-</a>
+[![Repository](https://img.shields.io/badge/Repository-Leveling_AI-blue?style=for-the-badge&logo=github)](https://github.com/RohanReddyThoodi01)
 
-<p>
-A <strong>multi-agent AI platform</strong> developed using Python and modern LLM architecture.
-</p>
+A **multi-agent AI platform** developed using Python and modern LLM architecture.
 
-<h4>Highlights</h4>
+#### Highlights
 
-<ul>
-<li>Agent orchestration</li>
-<li>Multi-agent workflows</li>
-<li>Structured evaluation</li>
-<li>Comprehensive logging</li>
-<li>LLM-powered execution flows</li>
-</ul>
+* Agent orchestration
+* Multi-agent workflows
+* Structured evaluation
+* Comprehensive logging
+* LLM-powered execution flows
 
-<strong>Built With:</strong>
+**Built With:**
 
-<br /><br />
-
-<code>Python</code>
-<code>LLMs</code>
-<code>Multi-Agent Frameworks</code>
+`Python` `LLMs` `Multi-Agent Frameworks`
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>📄 Contract Parser</h3>
+### 📄 Contract Parser
 
-<a href="https://github.com/RohanReddyThoodi01">
-<img src="https://img.shields.io/badge/Repository-Contract_Parser-blue?style=for-the-badge&logo=github" />
-</a>
+[![Repository](https://img.shields.io/badge/Repository-Contract_Parser-blue?style=for-the-badge&logo=github)](https://github.com/RohanReddyThoodi01)
 
-<p>
-An <strong>NLP and machine-learning pipeline</strong> designed to process complex legal contracts and extract meaningful structured information.
-</p>
+An **NLP and machine-learning pipeline** designed to process complex legal contracts and extract meaningful structured information.
 
-<h4>Highlights</h4>
+#### Highlights
 
-<ul>
-<li>Clause extraction</li>
-<li>Text classification</li>
-<li>Field identification</li>
-<li>Validation workflows</li>
-<li>Structured document processing</li>
-</ul>
+* Clause extraction
+* Text classification
+* Field identification
+* Validation workflows
+* Structured document processing
 
-<strong>Built With:</strong>
+**Built With:**
 
-<br /><br />
-
-<code>Python</code>
-<code>NLP</code>
-<code>Machine Learning</code>
+`Python` `NLP` `Machine Learning`
 
 </td>
 
@@ -333,12 +283,9 @@ An <strong>NLP and machine-learning pipeline</strong> designed to process comple
 
 ## 🧠 Engineering Focus
 
-| 🤖 AI Systems | ⚙️ Backend | 🎨 Frontend | ☁️ Cloud | 📊 Reliability |
-|:---:|:---:|:---:|:---:|:---:|
-| LLM Applications | Java | React | Azure | KQL |
-| Multi-Agent Systems | Spring Boot | Angular | Azure DevOps | Telemetry |
-| NLP Workflows | REST APIs | JavaScript | CI/CD | Alerting |
-| Evaluation Pipelines | SQL Server | UI Integration | Monitoring | Production Support |
+| <div align="center">🤖 AI Systems</div> | <div align="center">⚙️ Backend</div> | <div align="center">☁️ Cloud</div> | <div align="center">📊 Reliability</div> |
+|---|---|---|---|
+| LLM applications<br/>Multi-agent systems<br/>NLP workflows<br/>Evaluation pipelines | Java<br/>Spring Boot<br/>REST APIs<br/>SQL Server<br/>Angular integration | Azure<br/>Azure DevOps<br/>CI/CD<br/>Monitoring | KQL<br/>Telemetry<br/>Alerting<br/>Production Support |
 
 ---
 
@@ -376,23 +323,23 @@ An <strong>NLP and machine-learning pipeline</strong> designed to process comple
 
 <td width="33%" valign="top">
 
-<h3>⚡ Production Mindset</h3>
+### ⚡ Production Mindset
 
-I focus on software that is not only functional, but also <strong>maintainable, observable, testable, and reliable</strong>.
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3>🧠 Continuous Learning</h3>
-
-I enjoy learning emerging technologies while maintaining a strong foundation in <strong>computer science and software engineering fundamentals</strong>.
+I focus on software that is not only functional, but also **maintainable, observable, testable, and reliable**.
 
 </td>
 
 <td width="33%" valign="top">
 
-<h3>🤝 Engineering Collaboration</h3>
+### 🧠 Continuous Learning
+
+I enjoy learning emerging technologies while maintaining a strong foundation in **computer science and software engineering fundamentals**.
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🤝 Engineering Collaboration
 
 I value clear documentation, reusable solutions, structured troubleshooting, and collaborative engineering practices.
 
@@ -408,7 +355,7 @@ I value clear documentation, reusable solutions, structured troubleshooting, and
 
 ## 📬 Let's Connect
 
-I'm interested in opportunities involving **Software Engineering, Backend Development, Frontend Development, AI Engineering, and intelligent cloud applications**.
+I'm interested in opportunities involving **Software Engineering, Backend Development, AI Engineering, and intelligent cloud applications**.
 
 <a href="https://www.linkedin.com/in/rohan-reddy-thoodi/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -428,12 +375,8 @@ I'm interested in opportunities involving **Software Engineering, Backend Develo
 
 <br /><br />
 
-### 💬 Always open to discussing software engineering, frontend and backend systems, AI, and interesting technical problems.
+### 💬 Always open to discussing software engineering, backend systems, AI, and interesting technical problems.
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,100:1a202c&amp;height=100&amp;section=footer"
-  alt="Footer"
-  width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a202c&height=100&section=footer" width="100%" />
 
 </div>
